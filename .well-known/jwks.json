@@ -1,0 +1,11 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "idp-key-2025",
+      "n": "3gFTByYuoluWOaCBqbpIHHHafvyZ1tNv5dL5KB4FAV05DLb41GcghINE51fEwgx9p2fdER8uvnEXc_7yHe0sV77oOkd1sK2pm4GoryQWL_pK-fFiARryVLLVF-FW1ka4ggRqS-khropWBp4Ijf3IMcpZQ2LWHF0f4R-KpWDOL9dZAX8LmCrIYn9DdDAyphjpMezRaBfFpTHt7lhnrD1fGTzKVIuCnGWrIuk2PeEJG3ICING7ZICP8ME_vpkCqPmuMxQTo-bkxUw80GutMjFyJSVsbEnyNx2H9I9bXDvOcE3hNQlDfPaAmvgpVvMRbrBxS9ljz7Itxtcr8x8UpByxiw",
+      "e": "AQAB",
+      "use": "sig"
+    }
+  ]
+}
